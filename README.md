@@ -5,4 +5,5 @@ O principal livro que estou usando para aprender é "Secrets of the JavaScript N
 
 Outros livros:
 Javascript o guia definitivo.
+
 Design Patterns com Javascript.
